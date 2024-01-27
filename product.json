@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Laptop",
+      "price": 999.99,
+      "quantity": 10
+    },
+    {
+      "productId": 2,
+      "productName": "Smartphone",
+      "price": 499.99,
+      "quantity": 20
+    },
+    {
+      "productId": 3,
+      "productName": "Headphones",
+      "price": 79.99,
+      "quantity": 50
+    },
+    {
+      "productId": 4,
+      "productName": "Desk Chair",
+      "price": 129.99,
+      "quantity": 5
+    }
+  ]
+}
